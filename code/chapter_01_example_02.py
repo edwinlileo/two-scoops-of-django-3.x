@@ -2,7 +2,7 @@
 Using This Code Example
 =========================
 The code examples provided are provided by Daniel and Audrey Feldroy of
-Feldroy to help you reference Two Scoops of Django: Best Practices
+Feu reference Two Scoops of Django: Best Practices
 for Django 3.x. Code samples follow PEP-0008, with exceptions made for the
 purposes of improving book formatting. Example code is provided "as is", and
 is not intended to be, and should not be considered or labeled as "tutorial
